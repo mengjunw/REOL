@@ -1,0 +1,12 @@
+baseline:False
+discount:0.99
+epsilon:0.01
+lr_critic:0.01
+lr_intra:0.001
+lr_term:0.001
+nepisodes:250
+noptions:4
+nruns:100
+nsteps:1000
+primitive:False
+temperature:0.01
